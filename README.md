@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Johan (@jvanrhyn)
+- 👋 Hi, I’m Johan ([@jvanrhyn](https://mastodon.world/@jvanrhyn))
 
 <!---
 jvanrhyn/jvanrhyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
